@@ -13,6 +13,13 @@ Mi trayectoria profesional comenzó en análisis de datos en 2021 y continuó en
 - **AWS:** APIs serverless con Lambda y orquestación con Step Functions.
 - **Datos y operación:** PostgreSQL, SQL Server, Oracle, Neo4j, Kafka, Grafana y Argo Workflows. Mi experiencia con GCP incluye Cloud Storage.
 
+## Formación complementaria
+
+Diplomas públicos de formación aprobada en Platzi:
+
+- [Ruta de aprendizaje de Desarrollo Backend con Python y Django](https://platzi.com/p/brunoorozcomeja/learning-path/3-backend-python/diploma/detalle/).
+- [Curso de Java: Backend con Spring Boot](https://platzi.com/p/brunoorozcomeja/curso/2317-course/diploma/detalle/).
+
 ## Código público
 
 ### [oecd-universe](https://github.com/borozco-horus/oecd-universe)
