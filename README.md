@@ -1,49 +1,36 @@
 # Bruno Orozco
 
-Backend & Cloud Engineer based in Mexico City.
+Desarrollador backend en Ciudad de México. Trabajo con Java/Spring Boot, Python y Scala, y con despliegues en Kubernetes e infraestructura con Terraform.
 
-I build and operate backend services and cloud infrastructure, with experience across distributed systems, Kubernetes, Infrastructure as Code, CI/CD and production operations.
+[Portafolio y experiencia](https://brunoorozco.com/) · [LinkedIn](https://www.linkedin.com/in/orozco-bruno)
 
-## What I work with
+## Experiencia
 
-**Backend**  
-Python · Java · Scala · FastAPI · Spring Boot
+Mi trayectoria profesional comenzó en análisis de datos en 2021 y continuó en desarrollo backend desde 2022. Soy licenciado en Economía por la UNAM.
 
-**Cloud & Infrastructure**  
-Azure · AWS · Kubernetes · Docker · Terraform · Helm
+- **Backend:** APIs REST con Java/Spring Boot, Python (Flask, FastAPI) y Scala; pruebas unitarias y de integración.
+- **Infraestructura:** Kubernetes, Helm, Docker, Terraform en Azure y pipelines CI/CD con GitLab CI.
+- **AWS:** APIs serverless con Lambda y orquestación con Step Functions.
+- **Datos y operación:** PostgreSQL, SQL Server, Oracle, Neo4j, Kafka, Grafana y Argo Workflows. Mi experiencia con GCP incluye Cloud Storage.
 
-**Data & Messaging**  
-PostgreSQL · Kafka · Neo4j · SQL Server
+## Código público
 
-**Operations**  
-Linux · Grafana · Argo Workflows · CI/CD · Kubernetes troubleshooting
+### [oecd-universe](https://github.com/borozco-horus/oecd-universe)
 
-## Current focus
+Proyecto personal en fase inicial (v0.1) para trabajar con datos OECD/DBnomics en Python. Incluye registro de artefactos con SHA-256, normalización con Polars, archivos Parquet, consultas con DuckDB y pruebas con pytest.
 
-- Azure architecture and administration
-- Kubernetes platforms
-- Infrastructure as Code with Terraform
-- Cloud networking and identity
-- Observability and reliability
-- Distributed backend systems
+[Caso técnico: decisiones, pruebas y límites](https://brunoorozco.com/proyectos/oecd-universe/).
 
-## Building
+El repositorio contiene código y configuración; no equivale a un conjunto completo de datos descargados ni a un sistema de producción.
 
-### Azure Platform Lab
+### [Azure Platform Lab](https://github.com/borozco-horus/azure-platform-lab)
 
-A production-oriented Azure platform focused on infrastructure, networking, identity, Kubernetes, observability and operational reliability.
+Laboratorio **planeado** de Azure, AKS, Terraform, redes, identidad y observabilidad. El stack descrito en su README es un plan de trabajo, no una implementación terminada.
 
-Planned stack:
+## Contacto profesional
 
-`Azure · AKS · Terraform · Kubernetes · Workload Identity · Key Vault · Private Networking · Azure Monitor · GitHub Actions`
+Bruno Orozco Mejía · Ciudad de México, México.
 
-## Open source
+Interesado en oportunidades backend remotas desde México; también puedo considerar modalidad híbrida en Ciudad de México.
 
-Preparing contributions around the Azure and Kubernetes ecosystem.
-
-## Background
-
-Backend and cloud engineering experience across Azure, AWS and GCP, working with APIs, microservices, container platforms and infrastructure automation.
-
-📍 Mexico City, Mexico  
-🌐 https://brunoorozco.com
+[Contactar desde mi sitio](https://brunoorozco.com/#contact).
