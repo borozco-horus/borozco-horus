@@ -1,4 +1,4 @@
-# Bruno Orozco
+# Bruno Orozco Mejía
 
 Desarrollador backend en Ciudad de México. Trabajo con Java/Spring Boot, Python y Scala, y con despliegues en Kubernetes e infraestructura con Terraform.
 
