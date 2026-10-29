@@ -2,7 +2,7 @@
 
 Desarrollador backend en Ciudad de México. Trabajo con Java/Spring Boot, Python y Scala, y con despliegues en Kubernetes e infraestructura con Terraform.
 
-[Portafolio y experiencia](https://brunoorozco.com/) · [CV en PDF](https://brunoorozco.com/resume.pdf) · [LinkedIn](https://www.linkedin.com/in/orozco-bruno)
+[Portafolio y experiencia](https://brunoorozco.com/) · [CV y descarga en PDF](https://brunoorozco.com/cv/) · [LinkedIn](https://www.linkedin.com/in/orozco-bruno)
 
 ## Experiencia
 
