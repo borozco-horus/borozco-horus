@@ -6,7 +6,7 @@ Desarrollador backend en Ciudad de México. Trabajo con Java/Spring Boot, Python
 
 ## Experiencia
 
-Mi trayectoria profesional comenzó en análisis de datos en 2021 y continuó en desarrollo backend desde 2022. Soy licenciado en Economía por la UNAM.
+Mi trayectoria profesional comenzó en análisis de datos en 2021 y continuó en desarrollo backend desde 2022. Estudié la Licenciatura en Economía en la Universidad Nacional Autónoma de México (UNAM), 2019–2023.
 
 - **Backend:** APIs REST con Java/Spring Boot, Python (Flask, FastAPI) y Scala; pruebas unitarias y de integración.
 - **Infraestructura:** Kubernetes, Helm, Docker, Terraform en Azure y pipelines CI/CD con GitLab CI.
